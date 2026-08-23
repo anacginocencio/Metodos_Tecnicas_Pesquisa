@@ -8,7 +8,9 @@
 - [Prisma_checklist](PRISMA_checklist.pdf)
 - [Pesquisa Científica na Computação: Uma abordagem com Revisão Sistemática de Literatura](livro_completo.pdf)
 - [Modelo Protocolo de Revisão Sistemática de Literatura](protocolo_rsl_modelo.docx)
-- [![material complementar aula02](platao_01.jpg)]([https://www.youtube.com/watch?v=XoU4YAhJzLY]))
+
+
+[![material complementar aula02 - “Mito da Caverna](platao_0a.jpg)]([https://www.youtube.com/watch?v=XoU4YAhJzLY))
   
 
 ## Desenvolvimento Aula 
