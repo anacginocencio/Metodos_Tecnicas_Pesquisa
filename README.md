@@ -1,2 +1,4 @@
-# Metodos_Tecnicas_Pesquisa
-Este repositório contém o material necessário para a disciplina de Pós-Graduação Métodos e Técnias de Pesquisa
+# Métodos e Técnicas de Pesquisa - PPGCC (Programa de Pós-graduação em Ciência da Computação
+
+## PLANEJAMENTO  
+- [Roteiro Aulas](roteiro.md)
