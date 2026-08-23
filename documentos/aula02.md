@@ -9,8 +9,9 @@
 - [Pesquisa Científica na Computação: Uma abordagem com Revisão Sistemática de Literatura](livro_completo.pdf)
 - [Modelo Protocolo de Revisão Sistemática de Literatura](protocolo_rsl_modelo.docx)
 
+#### O vídeo abaixo (Mito da Caverna - Maurícipo de Souza) exploro ser prisioneiro vendo apenas sombras.
 
-[![material complementar aula02 - “Mito da Caverna](platao_0a.jpg)]([https://www.youtube.com/watch?v=XoU4YAhJzLY))
+[![Aula02 - Mito da Caverna](platao_01.jpg)](https://www.youtube.com/watch?v=XoU4YAhJzLY)
   
 
 ## Desenvolvimento Aula 
