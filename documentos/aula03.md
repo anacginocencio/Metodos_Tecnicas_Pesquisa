@@ -2,7 +2,7 @@
 ## Tema aula - Métodos Científicos
 
 ### Materiais
-- [Notas de aula](ula3_metodos_cientificos.pdf)
+- [Notas de aula](aula3_metodos_cientificos.pdf)
   
 ## Desenvolvimento Aula 
 
