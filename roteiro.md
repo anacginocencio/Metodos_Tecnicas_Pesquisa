@@ -4,3 +4,5 @@
 - [Aula 03 - Métodos Científicos](documentos/aula03.md)
 - [Aula 04 - A Pesquisa como instrumento de intervenção](documentos/aula04.md)
 - [Aula 05 - Técnicas de Apresentação](documentos/aula05.md)
+- [Aula 06 - Construção do Problema de Pesquisa](documentos/aula06.md)
+
