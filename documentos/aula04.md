@@ -3,6 +3,7 @@
 
 ### Materiais
 - [Notas de aula](aula4_pesquisa_intervencao_final.pdf)
+- [Documento Trabalhado em Grupo](cenarios_ficha_trabalho_aula_04.docx)
   
 ## Desenvolvimento Aula 
 
