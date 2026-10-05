@@ -3,7 +3,7 @@
 
 ### Materiais
 - [Notas de aula](Aula07_Tipos_Abordagens_Pesquisa.pdf)
-- [Video Curto explicando] (https://youtu.be/LSB1HbZJTCo)
+- [Video Curto explicando os principais conceitos, produzido por NotebookLm e baseado na aula] (https://youtu.be/LSB1HbZJTCo)
   
   
 ## Desenvolvimento Aula 
