@@ -3,6 +3,8 @@
 
 ### Materiais
 - [Notas de aula](Aula07_Tipos_Abordagens_Pesquisa.pdf)
+- [Video Curto explicando] (https://youtu.be/LSB1HbZJTCo)
+  
   
 ## Desenvolvimento Aula 
 
