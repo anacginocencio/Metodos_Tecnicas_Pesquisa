@@ -7,3 +7,4 @@
 - [Aula 06 - Construção do Problema de Pesquisa](documentos/aula06.md)
 - [Aula 07 - Tipos e Abordagens de Pesquisa](documentos/aula07.md)
 - [Aula 08 - Amostragem, instrumentos de coleta de dados: entrevistas, questionários e observação](documentos/aula08.md)
+- [Aula 09 - Experimentos, Estudos de Caso e Ética](documentos/aula09.md)
