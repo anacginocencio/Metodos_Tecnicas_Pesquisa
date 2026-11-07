@@ -3,6 +3,7 @@
 
 ### Materiais
 - [Notas de aula](aula10_analise_dados.pdf)
+- [Vídeo Curto de Introdução](https://youtu.be/a_HAqRz1--Q)
   
   
 ## Desenvolvimento Aula 
