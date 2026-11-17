@@ -9,3 +9,4 @@
 - [Aula 08 - Amostragem, instrumentos de coleta de dados: entrevistas, questionários e observação](documentos/aula08.md)
 - [Aula 09 - Experimentos, Estudos de Caso e Ética](documentos/aula09.md)
 - [Aula 10 - Análise de Dados](documentos/aula10.md)
+- [Aula 11 - Ferramentas de Apoio à Pesquisa](documentos/aula11.md)
